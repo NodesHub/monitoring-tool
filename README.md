@@ -31,7 +31,7 @@
 ## How to run
 ### Automatic installation
 ```
-bash <(curl -s https://raw.githubusercontent.com/nodejumper-org/monitoring-tool/main/utils/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/NodesHub/monitoring-tool/main/utils/install.sh)
 ```
 
 ### Manual installation
